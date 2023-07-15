@@ -7,6 +7,12 @@
 - Any user can burn tokens
 
 
+### Project Task solution
+- import openzepplin contract in your solidity file
+- create a contract named myTkn
+- and create functions such as mint(onlyOwner), burn, transfer
+- compile and deploy the contract 
+
 ### Opening project in the remix
 - open the project folder in cmd
 
